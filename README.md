@@ -5,9 +5,12 @@ A simple CRUD (Create, Read, Update, Delete) application using**MongoDB**.
 
 ## 🚀 Features
 
-- Create, read, update, and delete records
-- RESTful API design
-- MongoDB for data persistence using Mongoose
+- Create new records
+- View all records
+- Update existing records
+- Delete records
+- Uses MongoDB as the database
+- RESTful API structure
 
 ## ⚙️ Installation & Setup
 
